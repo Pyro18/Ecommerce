@@ -14,7 +14,7 @@
 -  [ ] Collegare l' e-commerce a un backend o a un servizio di API per ottenere dati dei prodotti, categorie, utenti, ecc.
 -  [ ] Implementare le chiamate API utilizzando Axios (da decidere cosa usare).
 -  [ ] Gestire gli stati degli oggetti recuperati dalle API all'interno del tuo sistema di gestione degli stati.
-- [ ] Implementare un database (MariaDB o LokiJS)
+- [ ] Implementare un database (mongodb)
 	* + [ ] Users
 	* + [ ] Products
 	* + [ ] Categories
